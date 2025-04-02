@@ -1,3 +1,5 @@
+note: new update v.2.0
+
 Tutorial
 open cheat and run as administrator when game loads 98%
 
