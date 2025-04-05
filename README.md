@@ -11,4 +11,4 @@ By WirdGates
 full tutorial youtube
 https://youtu.be/acTCREwlfGk?si=JKfN5SsW9RowSOlV
 
-support me >_<
+subscribe for support me >_<
