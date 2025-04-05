@@ -10,3 +10,5 @@ By WirdGates
 
 full tutorial youtube
 https://youtu.be/acTCREwlfGk?si=JKfN5SsW9RowSOlV
+
+support me >_<
