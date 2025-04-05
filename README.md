@@ -1,4 +1,5 @@
 note: new update v.2.0
+
 fitur Auto Cool belum bisa ges next update
 
 Tutorial
