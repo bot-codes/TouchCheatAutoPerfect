@@ -10,6 +10,7 @@ By WirdGates
 
 full tutorial youtube
 https://youtu.be/acTCREwlfGk?si=JKfN5SsW9RowSOlV
+
 join discord: https://discord.gg/4w44quE5
 
 subscribe for support me >_<
