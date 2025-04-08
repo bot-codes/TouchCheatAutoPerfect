@@ -1,4 +1,4 @@
-note: new update v.2.0
+note: new update v3.0
 
 fitur Auto Cool next update
 
