@@ -9,7 +9,7 @@ Happy Cheating !!
 By WirdGates
 
 full tutorial youtube
-https://youtu.be/acTCREwlfGk?si=JKfN5SsW9RowSOlV
+https://youtu.be/b5vqV9Lsucc?si=YqNct4i5dgGdJNva
 
 join discord: https://discord.gg/CgjGGxZ3QU
 
