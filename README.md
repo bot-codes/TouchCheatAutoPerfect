@@ -2,7 +2,7 @@ note: new update v3.0
 
 Buy License dm me
 
-at discord devnamikaze3263
+my discord: devnamikaze3263
 
 join discord: https://discord.gg/CgjGGxZ3QU
 
