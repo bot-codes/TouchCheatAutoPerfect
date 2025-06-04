@@ -10,3 +10,4 @@ subscribe for support me >_<
 
 Noted: How to use the run as administrator cheat when the game is in the lobby area, if the cheat has been injected then minimize the console
 show or not show cheat press insert
+![Uploading screen-capture (2).gif…]()
