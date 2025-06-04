@@ -11,4 +11,6 @@ subscribe for support me >_<
 Noted: How to use the run as administrator cheat when the game is in the lobby area, if the cheat has been injected then minimize the console
 show or not show cheat press insert
 
+How to use auto click, after it is active move the cursor to area start
+
 ![screen-capture (2)](https://github.com/user-attachments/assets/52e0f201-a7f0-4890-a0a5-a054672c56d9)
