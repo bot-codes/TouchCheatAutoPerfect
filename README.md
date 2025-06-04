@@ -1,4 +1,5 @@
 note: new update v4.1
+next fiture wait for update 4.2
 
 Buy License dm me
 
