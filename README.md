@@ -15,4 +15,4 @@ show or not show cheat press insert
 
 How to use auto click, after it is active move the cursor to area start
 
-![screen-capture (2)](https://github.com/user-attachments/assets/52e0f201-a7f0-4890-a0a5-a054672c56d9)
+![Screenshot 2025-06-06 204950](https://github.com/user-attachments/assets/e7bcbca7-a45d-4fad-9a56-f563896acb80)
