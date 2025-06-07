@@ -29,5 +29,7 @@ Flying Hack
 
 Showcase:
 https://www.youtube.com/watch?v=W6WCTpuIJcc
+![auto](https://github.com/user-attachments/assets/9fb9457a-1ff3-4b00-a664-2f24068969eb)
+![others menu](https://github.com/user-attachments/assets/0012fa5f-9211-4210-b0a0-2cc5d73b7f46)
 
-![Screenshot 2025-06-06 204950](https://github.com/user-attachments/assets/e7bcbca7-a45d-4fad-9a56-f563896acb80)
+
