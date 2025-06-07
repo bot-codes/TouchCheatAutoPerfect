@@ -27,4 +27,7 @@ Others Menu
 Speed Hack
 Flying Hack
 
+Showcase:
+https://www.youtube.com/watch?v=W6WCTpuIJcc
+
 ![Screenshot 2025-06-06 204950](https://github.com/user-attachments/assets/e7bcbca7-a45d-4fad-9a56-f563896acb80)
