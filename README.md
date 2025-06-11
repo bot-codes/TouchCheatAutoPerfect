@@ -13,19 +13,18 @@ show or not show cheat press insert
 
 How to use auto click, after it is active move the cursor to area start
 
-Warning: Auto Nice and Auto Cool are used while playing and the arrow appears, 
-miss arrow 1x and check the Auto Cool or Auto Nice box. 
-DO NOT check Auto Nice and Auto Cool at the same time
-
 TouchClient update v4.2
 New Feature:
 Auto Perfect
 Auto Cool
 Auto Nice
+Auto Clicker
 
 Others Menu
 Speed Hack
 Flying Hack
+
+and can press f1 f2 f3 for auto perfect auto cool auto good
 
 Showcase:
 https://www.youtube.com/watch?v=W6WCTpuIJcc
