@@ -29,7 +29,7 @@ and can press f1 f2 f3 for auto perfect auto cool auto good
 Showcase:
 https://www.youtube.com/watch?v=W6WCTpuIJcc
 
-![auto](https://github.com/user-attachments/assets/9fb9457a-1ff3-4b00-a664-2f24068969eb)
-![others menu](https://github.com/user-attachments/assets/0012fa5f-9211-4210-b0a0-2cc5d73b7f46)
+![main meun](https://github.com/user-attachments/assets/8586789d-a284-4f54-82b0-e82a93b7a2ff)
+
 
 
