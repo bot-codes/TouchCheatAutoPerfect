@@ -8,7 +8,8 @@ join discord: https://discord.gg/CgjGGxZ3QU
 
 subscribe for support me >_<
 
-Noted: How to use the run as administrator cheat when the game is in the lobby area, if the cheat has been injected then minimize the console
+Noted: How to use cheat run as administrator when the game is in the lobby area,
+cheat will be injected,
 show or not show cheat press insert
 
 How to use auto click, after it is active move the cursor to area start
@@ -18,6 +19,7 @@ New Feature:
 Auto Perfect
 Auto Cool
 Auto Nice
+Auto Bad
 Auto Clicker
 
 Others Menu
