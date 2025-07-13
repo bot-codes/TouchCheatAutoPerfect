@@ -1,5 +1,6 @@
 
-![lol](https://github.com/user-attachments/assets/7f54cc58-8368-4659-a5c1-911b27379d51)
+<img width="1920" height="1080" alt="lol" src="https://github.com/user-attachments/assets/c7c5c3d5-4a63-462d-a5dd-7e302e58a3a3" />
+
 
 Buy License dm me
 
